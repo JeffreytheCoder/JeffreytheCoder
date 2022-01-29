@@ -2,4 +2,4 @@
 <br />
 [![JeffreytheCoder's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JeffreytheCoder)](https://github.com/anuraghazra/github-readme-stats)
 <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeffreytheCoder&layout=compact&langs_count=8&hide=css)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeffreytheCoder&layout=compact&langs_count=8&hide=css,c)](https://github.com/anuraghazra/github-readme-stats)
