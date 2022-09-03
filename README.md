@@ -5,7 +5,7 @@
   
 - 🌱 I’m currently learning **Blockchain** and **Serverless Architecture**  
   
-- 👨‍💻 All of my projects are available at [my protfolio](https://jeffreyyu.herokuapp.com/)  
+- 👨‍💻 All of my projects are available at [my protfolio](https://jeffreyyu.dev/)  
   
 - 📝 I regularly write articles on [dev.to](https://dev.to/jeffreythecoder)  and [medium](https://medium.com/@jeffreyzepengyu)
   
