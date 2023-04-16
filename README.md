@@ -1,7 +1,7 @@
 
 <h3>Hi  👋 I'm Jeffrey Yu</h3>  
 
-- 🔭 I’m currently building [Teamie AI](https://teamie.ai/)  
+- 🔭 I’m currently building [Teamie AI](https://teamie.ai/), ChatGPT but trained for your business
   
 - 🌱 I’m currently learning **Cloud Computing** and **Large Language Model (LLM)**
   
