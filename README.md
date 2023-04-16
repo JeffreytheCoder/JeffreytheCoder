@@ -1,15 +1,15 @@
 
 <h3>Hi  👋 I'm Jeffrey Yu</h3>  
 
-- 🔭 I’m currently working on [ThinkingCap](https://thinkingcap.co/)  
+- 🔭 I’m currently building [Teamie AI](https://teamie.ai/)  
   
-- 🌱 I’m currently learning **Cloud Computing** and **Machine Learning**
+- 🌱 I’m currently learning **Cloud Computing** and **Large Language Model (LLM)**
   
 - 👨‍💻 See my projects at [my chatbot portfolio](https://jeffreyyu.dev/)  
   
-- 📝 I write blogs on [dev.to](https://dev.to/jeffreythecoder)  and [medium](https://medium.com/@jeffreyzepengyu)
+- 📝 I write blogs on [medium](https://medium.com/@jeffreyzepengyu) and [dev.to](https://dev.to/jeffreythecoder)
   
-- 💬 Ask me about **MERN stack development**
+- 💬 Ask me about **Full-stack development**
   
   
 <h3 align="left">Connect with me:</h3>  
