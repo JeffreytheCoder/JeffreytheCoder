@@ -1,8 +1,6 @@
 
 <h3>Hi  👋 I'm Jeffrey Yu</h3>  
 
-- 🔭 I’m currently building [Teamie](https://teamie.ai/), AI assistant for teams
-  
 - 🌱 I’m currently learning **Cloud Computing** and **Large Language Model (LLM)**
   
 - 👨‍💻 See my projects at [my chatbot portfolio](https://jeffreyyu.dev/)  
