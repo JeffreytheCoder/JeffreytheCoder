@@ -1,8 +1,6 @@
 
 <h3>Hi  👋 I'm Jeffrey Yu</h3>  
   
-- 👨‍💻 See my projects at [my chatbot portfolio](https://jeffreyyu.dev/)  
-  
 - 📝 Read my blogs on [Dev Community](https://dev.to/jeffreythecoder)
   
 - 💬 Ask me about **React, NodeJS, GraphQL**
