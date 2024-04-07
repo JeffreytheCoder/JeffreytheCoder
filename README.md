@@ -1,7 +1,7 @@
 
 <h3>Hi  👋 I'm Jeffrey Yu</h3>  
 
-- 👨‍💻 I'm contributing to [Rocket Chat](https://github.com/RocketChat)
+- 👨‍💻 I'm contributing to [Rocket.Chat](https://github.com/RocketChat)
   
 - 📝 Read my blogs on [Dev Community](https://dev.to/jeffreythecoder)
   
